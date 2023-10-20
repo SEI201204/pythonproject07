@@ -1,0 +1,14 @@
+print('AAA')
+print('ggg')
+print('CCCCCCCC\
+    vvvvv')
+print("rrrrrrrr\
+    ggggg")
+print('''22222
+      1111111111
+        555555555
+      ''')
+print('''333333333333
+      1111111
+                444444444
+     ''')
